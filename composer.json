@@ -1,0 +1,14 @@
+{
+    "name": "mbell/stack",
+    "description": "stack for app",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mbell",
+            "email": "mbell@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
